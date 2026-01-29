@@ -1,2 +1,3 @@
 # moneyguard
-show engineering, data parsing, metric, product reasoning. App store release.
+A fintech beta app exploring subscription leakage and transaction anomalies.
+
